@@ -41,5 +41,6 @@ public class bfs {
     }
 }
 
-
-
+// output
+// BFS starting from vertex 2:
+// 2 0 3 1
