@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "Sorting.insertion",
+            "projectName": "DSA_618d00a8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
